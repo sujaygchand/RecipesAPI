@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>RecipesAPI</name>
+    </assembly>
+    <members>
+        <member name="T:RecipesAPI.Controllers.WeatherForecastController">
+            <summary>
+            Weather Controller responsible for GET/POST for managing weather
+            </summary>
+        </member>
+        <member name="M:RecipesAPI.Controllers.WeatherForecastController.Get">
+            <summary>
+            This GET method returns fake weather
+            </summary>
+            <returns>An array of weather forecast</returns>
+        </member>
+    </members>
+</doc>

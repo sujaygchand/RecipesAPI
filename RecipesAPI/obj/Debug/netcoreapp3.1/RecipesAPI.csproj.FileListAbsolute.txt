@@ -19,3 +19,10 @@ E:\SoftwareDevelopment\C# projects\RecipesAPI\RecipesAPI\obj\Debug\netcoreapp3.1
 E:\SoftwareDevelopment\C# projects\RecipesAPI\RecipesAPI\obj\Debug\netcoreapp3.1\RecipesAPI.dll
 E:\SoftwareDevelopment\C# projects\RecipesAPI\RecipesAPI\obj\Debug\netcoreapp3.1\RecipesAPI.pdb
 E:\SoftwareDevelopment\C# projects\RecipesAPI\RecipesAPI\obj\Debug\netcoreapp3.1\RecipesAPI.genruntimeconfig.cache
+E:\SoftwareDevelopment\C# projects\RecipesAPI\RecipesAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\SoftwareDevelopment\C# projects\RecipesAPI\RecipesAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\SoftwareDevelopment\C# projects\RecipesAPI\RecipesAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\SoftwareDevelopment\C# projects\RecipesAPI\RecipesAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\SoftwareDevelopment\C# projects\RecipesAPI\RecipesAPI\obj\Debug\netcoreapp3.1\RecipesAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\SoftwareDevelopment\C# projects\RecipesAPI\RecipesAPI\obj\Debug\netcoreapp3.1\RecipesAPI.csproj.CopyComplete
+E:\SoftwareDevelopment\C# projects\RecipesAPI\RecipesAPI\bin\Debug\netcoreapp3.1\RecipesAPI.xml
