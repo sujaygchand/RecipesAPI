@@ -7,6 +7,9 @@ using System.Threading.Tasks;
 
 namespace RecipesAPI.Controllers
 {
+	/// <summary>
+	/// Weather Controller responsible for GET/POST for managing weather
+	/// </summary>
 	[ApiController]
 	[Route("[controller]")]
 	public class WeatherForecastController : ControllerBase
@@ -23,6 +26,10 @@ namespace RecipesAPI.Controllers
 			_logger = logger;
 		}
 
+		/// <summary>
+		/// This GET method returns fake weather
+		/// </summary>
+		/// <returns>An array of weather forecast</returns>
 		[HttpGet]
 		public IEnumerable<WeatherForecast> Get()
 		{
